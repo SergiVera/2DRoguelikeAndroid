@@ -1,4 +1,7 @@
-In this project we implement a Unity game in Android Studio using libraries. Also, we include the moving enemy in the vertical axes, so not exhibit the problem that showed previously. All the paths mentioned are relatives to the project, so don’t forget to put PROJECT_NAME/.. before the paths.
+In this project we implement a Unity game in Android Studio using libraries. Also, we include the moving enemy in the vertical axes, so not exhibit the problem that showed previously. All the paths mentioned are relatives to the project, so do not forget to put PROJECT_NAME/.. before the paths.
+To upload an image into a README we can use this: 
+	- go to Issues and drag the image
+	- copy the link and paste it into README (copy it in the line where you		  want to visualize the image)
 The steps that we follow are this:
 
 EXPORT FROM UNITY
