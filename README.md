@@ -5,7 +5,7 @@ EXPORT FROM UNITY
 
 We create a script where we let the user go back in the android application. Then export the project into an Android project as follows:
 
-
+![captura de pantalla 2018-11-27 a las 20 52 17](https://user-images.githubusercontent.com/43316590/49117595-892ec400-f2a1-11e8-9420-76395d147d86.png)
 
 Very important to select Auto Graphics API.
 
